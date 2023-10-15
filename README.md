@@ -1,1 +1,1 @@
-# wumpus
+# Wumpus
